@@ -160,7 +160,7 @@ footer .text-center p {
   bottom: 20px; /* Distance from the bottom */
   right: 20px; /* Distance from the right */
   z-index: 1000; /* Ensure it stays on top of other elements */
-  /* background-color: #25D366; WhatsApp green color */
+  background-color: white; 
   border-radius: 50%; /* Circular shape */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   width: 60px; /* Icon size */
